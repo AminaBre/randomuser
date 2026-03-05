@@ -8,4 +8,5 @@ export type User = {
   picture: {
     medium: string;
   };
+  phone: string;
 };
